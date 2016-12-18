@@ -1,2 +1,8 @@
 # wheres_my_file
-When you downloaded a file or created a new file. as you obtained more and more files, you can hardly to find out a file. use this tool add file tracking and you can find out them later.
+## Usage
+* Directly run the python script
+* use py2exe to convert it to portable exe
+
+## Feature set
+* run a executable file
+* start a list of executable files
