@@ -1,0 +1,11 @@
+{
+    // -r
+    "alias": {
+        "foobar":"foobar2000.exe",
+        "sublime":"sublime_text.exe"
+    },
+    // -s all the executables or files will be started or opened.
+    "start_list_work": [
+    "C:\\Program Files (x86)\\Microsoft Office\\Office15\\OUTLOOK.EXE"
+    ]
+}
